@@ -2,7 +2,7 @@
 
 ---
 
-![Quiz Mini App](assets/images/preivew.png)
+![Quiz Mini App](assets/images/preview.png)
 
 #### ✅ About
 
